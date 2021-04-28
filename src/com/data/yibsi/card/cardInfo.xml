@@ -1,0 +1,123 @@
+<?xml version = "1.0"?>
+<deck>
+    <card id = "1">
+        <name>THE FOOL</name>
+        <meaning>ความมีอิสระการทำในสิ่งที่ตัวเองต้องการโดยไม่สนใจผลลัพธ์และอันตราย</meaning>
+        <image>image/1.png</image>
+    </card>
+
+    <card id = "2">
+        <name>THE MAGICIAN</name>
+        <meaning>คนที่มีความรู้ความสามารถ เข้าใจทุกสิ่งอย่างในความสัมพันธ์...</meaning>
+        <image>image/2.png</image>
+    </card>
+
+    <card id = "3">
+        <name>THE HIGH PRIESTESS</name>
+        <meaning>ความไม่ชัดเจน ความซับซ้อนในความสัมพันธ์ เหมือนพระจันทร์ที่ส่องสว่าง และมืดลงในบางวัน...</meaning>
+        <image>image/3.png</image>
+    </card>
+
+    <card id = "4">
+        <name>THE EMPRESS</name>
+        <meaning>ความเป็นแม่สูง ดูแลอย่างดีสมบูรณ์ คนที่เข้ามารักเธอจะยอมเธอทั้งกายและใจ...</meaning>
+        <image>image/4.png</image>
+    </card>
+
+    <card id = "5">
+        <name>THE EMPEROR</name>
+        <meaning>ความมั่นคง ความนิ่ง ความเป็นพ่อ ความพร้อมจะดูแลและปกป้องคนที่ตนรัก...การควบคุมและความเป็นเจ้าเข้าเจ้าของ...</meaning>
+        <image>image/5.png</image>
+    </card>
+
+    <card id = "6">
+        <name>THE HIEROPHANT</name>
+        <meaning>ข้อตกลง แนวคิด ความเชื่อที่วางร่วมกันในความสัมพันธ์...</meaning>
+        <image>image/6.png</image>
+    </card>
+
+    <card id = "7">
+        <name>THE LOVERS</name>
+        <meaning>โอกาส โชคชะตาที่เข้ามา ซึ่งเป็นทางเลือกที่ต้องเลือก...</meaning>
+        <image>image/7.png</image>
+    </card>
+
+    <card id = "8">
+        <name>THE CHARIOT</name>
+        <meaning>ความมุ่งมั่น ความมุทะลุ ในความสัมพันธ์ ที่สามารถควบคุมได้...</meaning>
+        <image>image/8.png</image>
+    </card>
+
+    <card id = "9">
+        <name>STRENGTH</name>
+        <meaning>ความเข้มแข็งในการควบคุมจิตใจ ผู้หญิงคนนึงทำให้ผู้ชายยอมสยบได้...</meaning>
+        <image>image/9.png</image>
+    </card>
+
+    <card id = "10">
+        <name>THE HERMIT</name>
+        <meaning>การแยกตัวออกมาคนเดียว ออกจากสถานการณ์บางอย่าง เพื่อค้นหาคำตอบด้วยมุมมองที่กว้างขึ้น...</meaning>
+        <image>image/10.png</image>
+    </card>
+
+    <card id = "11">
+        <name>WHEEL OF FORTUNE</name>
+        <meaning>การเปลี่ยนแปลงของโชคชะตา ที่เหนือการควบคุมของเรา...</meaning>
+        <image>image/11.png</image>
+    </card>
+
+    <card id = "12">
+        <name>JUSTICE</name>
+        <meaning>การตัดสินใจ ปรับสมดุลลดความขัดแย้งในใจ ให้เกิดความเท่าเทียมยุติธรรม...</meaning>
+        <image>image/12.png</image>
+    </card>
+
+    <card id = "13">
+        <name>THE HANGED MAN</name>
+        <meaning>ความเจ็บที่เข้าใจได้ อดทนได้ ความทรมานที่ทำให้ได้เห็นมองมุมใหม่ ได้เรียนรู้...</meaning>
+        <image>image/13.png</image>
+    </card>
+
+    <card id = "14">
+        <name>DEATH</name>
+        <meaning>การเปลี่ยนแปลงไปสู่สิ่งใหม่ การจบสิ่งที่เป็นอยู่เพื่อเริ่มต้นใหม่...</meaning>
+        <image>image/14.png</image>
+    </card>
+
+    <card id = "15">
+        <name>TEMPERANCE</name>
+        <meaning>การทดลอง การปรับหาสมดุลในความสัมพันธ์...</meaning>
+        <image>image/15.png</image>
+    </card>
+
+    <card id = "16">
+        <name>THE DEVIL</name>
+        <meaning>ความหลงใหล ความมัวเมา หรือกรรมที่ทำไว้ทำให้ยังผูกติดกันแม้จะเป็นความสัมพันธ์ที่ไม่ดีก็ตาม...</meaning>
+        <image>image/16.png</image>
+    </card>
+
+    <card id = "17">
+        <name>THE TOWER</name>
+        <meaning>การเปลี่ยนแปลงกระทันหัน การพังทลายของสิ่งที่สร้างอย่างไม่มั่นคง...</meaning>
+        <image>image/17.png</image>
+    </card>
+
+    <card id = "18">
+        <name>THE STAR</name>
+        <meaning>ความหวังที่ส่องประกาย การดูแลฟื้นฟูสภาพร่างกายและจิตใจเพื่ออนาคตที่สดใสข้างหน้า...</meaning>
+        <image>image/18.png</image>
+    </card>
+
+    <card id = "19">
+        <name>THE MOON</name>
+        <meaning>ความกังวล ความรู้สึกอ่อนไหว ความรู้สึกไม่ปลอดภัยในความสัมพันธ์...</meaning>
+        <image>image/19.png</image>
+    </card>
+
+    <card id = "20">
+        <name>THE SUN</name>
+        <meaning>ความสัมพันธ์ที่มีความหวังอันสดใส ความชัดเจน การเปิดเผย...</meaning>
+        <image>image/20.png</image>
+    </card>
+
+</deck>
